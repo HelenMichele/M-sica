@@ -1,0 +1,16 @@
+﻿Console.WriteLine("Cazuza Exagerado");
+Thread.Sleep(1000);
+Console.WriteLine("Amor da minha vida");
+Console.WriteLine("Daqui até a eternidade");
+Console.WriteLine("Nossos destinos foram traçados");
+Console.WriteLine("Na maternidade");
+Thread.Sleep(1000);
+Console.WriteLine("Paixão cruel, desenfreada");
+Console.WriteLine("Te trago mil rosas roubadas");
+Console.WriteLine("Pra desculpar minhas mentiras");
+Console.WriteLine("Minhas mancadas");
+Thread.Sleep(1000);
+Console.WriteLine("Exagerado");
+Console.WriteLine("Jogado aos teus pés");
+Console.WriteLine("Eu sou mesmo exagerado");
+Console.WriteLine("Adoro um amor inventado");
